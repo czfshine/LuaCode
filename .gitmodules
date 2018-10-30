@@ -1,0 +1,6 @@
+[submodule "lat"]
+	path = lat
+	url = https://github.com/efrederickson/LuaAssemblyTools.git
+[submodule "luagy"]
+	path = luagy
+	url = git@github.com:czfshine/luagy.git
